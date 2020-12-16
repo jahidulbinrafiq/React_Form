@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.nav-section ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.nav-section ul li {
+  display: inline-block;
+  margin: 30px;
+}
+.nav-section a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+}
+.nav-section a:hover {
+  background: tomato;
+}
+.selected {
+  background: gray;
+}
